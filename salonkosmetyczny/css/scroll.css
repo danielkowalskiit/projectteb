@@ -1,0 +1,18 @@
+#scroll-to-top{
+	display:none;
+	position:fixed;
+	bottom:80px;
+	right: 14px;
+	opacity:0.6;
+    transition-duration: 0.3s;
+}
+	
+#scroll-to-top:hover{
+	opacity: 1;
+}
+	
+.scrol-css i{
+	font-size: 60px;
+	color: #e66cb3;
+}
+	

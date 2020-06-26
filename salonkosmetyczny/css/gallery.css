@@ -1,0 +1,26 @@
+/* PLIK CSS do galeri stworzony przez przez Daniel Kowalski (dk324@interia.pl) dla Hybrydowa Królowa */
+
+.content-galery
+{
+	margin-top: 20px;
+	padding: 0;	
+}
+
+.content-galery hr
+{
+	width: 290px;
+}
+
+.picture-div
+{
+	margin-top: 30px;
+	text-align: center;
+}
+
+@media all and (width: 768px)
+{
+	.picture-div
+	{
+		padding-left: 2px;
+	}
+}
